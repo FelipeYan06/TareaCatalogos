@@ -324,38 +324,36 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 
 2. Se limpian datos de los campos con el botón limpiar
 
-
-[![2.png](https://i.postimg.cc/fTst6RNW/2.png)](https://postimg.cc/4n8xcZyj)
-
-
-3. Se añade un nuevo estado con el boton insertar
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/05dc70b5-98da-4aa4-b773-7a2f20927318)
 
 
-[![3-1.png](https://i.postimg.cc/sDJQyCjY/3-1.png)](https://postimg.cc/SJJN75zR)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/d13f59ed-1fbb-4076-9fb6-4c7857bf3ecb)
 
 
-[![3-2.png](https://i.postimg.cc/8zPFzXcq/3-2.png)](https://postimg.cc/tYwRr5h5)
+3. Se añade un nuevo estado con el boton insertar y se limpian los campos.
 
+
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/c0bd63ed-9f20-4dc7-8daa-bd93f6b85ef8)
+
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/b5dd2437-a1ba-45c7-b602-9fe7874654b1)
 
 4. Se elimina el estado con el boton eliminar
 
 
-[![4-1.png](https://i.postimg.cc/y8QDghSW/4-1.png)](https://postimg.cc/Xr5jtCL0)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/ed1acb82-bcd6-4906-a28e-721263a0aa7a)
 
 
-[![4-2.png](https://i.postimg.cc/Qt5CyRYW/4-2.png)](https://postimg.cc/BLSJ8w0q)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/6cdf53d2-5d33-4726-8854-2e735f715b3b)
+
+5. Se presiona el botón actualizar y aparecen los datos de la fila seleccionada para ser cambiados.
 
 
-5. Se presiona el botón actualizar y aparecen los datos de la fila seleccionada.
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/715e0878-e7c5-439e-b8e7-73968e0e6ae7)
 
 
-[![5-1.png](https://i.postimg.cc/sxrxdwbH/5-1.png)](https://postimg.cc/qh142XJ2)
-
-
-[![5-2.png](https://i.postimg.cc/fyfLwYNz/5-2.png)](https://postimg.cc/4HnZP7yq)
-
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/d0618327-ee90-415e-8035-4394f02914e6)
 
 6. Se cambian los valores y se le da aceptar y cambian los datos en la fila.
 
 
-[![6.png](https://i.postimg.cc/446nbRhD/6.png)](https://postimg.cc/nMLHp522)
+![Uploading image.png…]()
