@@ -47,7 +47,16 @@ public class Estado {
     }
     
     
-    public static void llenarEstados(){
+```
+
+## Se crea algunos métodos que son para modificar la lista de objetos estados.
+
+El método llenarEstados(), para que aparezcan por determinador en la tabla.
+Métodos listaForE y listaForI para recorrer los Estados.
+EliminarEstados() con el método remove. Añadir y actualizar.
+
+```
+ public static void llenarEstados(){
         estados.add(new Estado("1","Campeche","Carmen"));
         estados.add(new Estado("3","México","Toluca"));        
         estados.add(new Estado("4","Guerrero","Acapulco"));   
@@ -89,56 +98,7 @@ public class Estado {
 
         return "Estado{" + "id=" + id + ", nombre=" + nombre +" municipio= "+ municipio + '}';
     }
-}
-```
 
-## Se crea algunos métodos que son para modificar la lista de objetos estados.
-
-El método llenarEstados(), para que aparezcan por determinador en la tabla.
-Métodos listaForE y listaForI para recorrer los Estados.
-EliminarEstados() con el método remove. Añadir y actualizar.
-
-```
-    public static void llenarEstados(){
-        estados.add(new Estado(1,"Campeche","Calkini"));
-        estados.add(new Estado(2,"Campeche","Seybaplaya"));
-        estados.add(new Estado(3,"Yucatan","Progreso"));        
-        estados.add(new Estado(4,"Yucatan","Mérida"));   
-        estados.add(new Estado(3,"Tabasco","VillaHermosa"));  
-    }
-    
-    
-    public static void listaEstadosForE(){
-        System.out.println("For each");
-        for (Estado estado : estados) {
-            System.out.println(estado);
-        }
-    }
-    
-    public static void listaEstadosForI(){
-        System.out.println("forI");
-        for (int i = 0; i < estados.size(); i++) {
-            System.out.println(estados.get(i).toString());
-        }
-    }
-    
-    //Se elimina un objeto estado a través de su ID.
-    public static void eliminarEstados(int id){
-        estados.remove(id);
-    }
-        
-    //Se añade un nuevo Estado llamando al método add y dentro al constructor creado anteriormente    
-    public static void añadirEstados(int id,String nombre, String municipio){
-        estados.add(new Estado(id,nombre,municipio));
-    }
-    
-    //Se modifican los valores de un objeto Estado ya creado, utilizando el atributo recNo como identificador.
-    public static void actualizarEstado(int recNo, int id, String nombre, String municipio){
-        estados.get(recNo).setId(id);
-        estados.get(recNo).setNombre(nombre);
-        estados.get(recNo).setMunicipio(municipio);
-
-    } 
 
 ```
 ## Se crea la interfaz donde se mostrara la tabla y botones.
@@ -195,7 +155,7 @@ según el indice y luego se guarda en la filas del Jtable. Cada vez que sea llam
     }
 ```
 3- Botón "Aceptar" MouseClicked. Se guardan los datos escritos en los textField en un nuevo objeto Estado. 
-YEl if es para verificar si el estado existe a través de su variable RecNo. Dependiendo de esto, se añade un nuevo estado con el método añadirEstado(). 
+El if es para verificar si el estado existe a través de su variable RecNo. Dependiendo de esto, se añade un nuevo estado con el método añadirEstado(). 
 Si el registro existe, es porque el botón actualizar esta activado y se ha seleccionado una fila. Entonces se llama al método actualizar.
 
 ```
@@ -314,7 +274,7 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
     }
 ```
 
-## Funcionamiento del programa
+## Programa en ejecución.
 
 1. Aparecen los datos predeterminados en la tabla, esto por el contructor.
 
