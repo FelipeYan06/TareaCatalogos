@@ -4,7 +4,7 @@
 
 ## En un paquete modelos, se crea la clase Estado.
 
-Esta clase estado tiene atributos, nombre del estado, su ID y minicipio. Su respectivo constructor, getters y setters, to String y 
+Esta clase estado tiene atributos: nombre del estado, su ID y minicipio. Su respectivo constructor, getters y setters, to String y 
 un ArrayList para contener objetos Estado.
 ```
 public class Estado {
@@ -332,8 +332,8 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 
 3. Se añade un nuevo estado con el boton insertar y se limpian los campos.
 
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/6cdf53d2-5d33-4726-8854-2e735f715b3b)
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/c0bd63ed-9f20-4dc7-8daa-bd93f6b85ef8)
 
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/b5dd2437-a1ba-45c7-b602-9fe7874654b1)
 
@@ -343,7 +343,7 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/ed1acb82-bcd6-4906-a28e-721263a0aa7a)
 
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/6cdf53d2-5d33-4726-8854-2e735f715b3b)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/c0bd63ed-9f20-4dc7-8daa-bd93f6b85ef8)
 
 5. Se presiona el botón actualizar y aparecen los datos de la fila seleccionada para ser cambiados.
 
@@ -354,6 +354,5 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/d0618327-ee90-415e-8035-4394f02914e6)
 
 6. Se cambian los valores y se le da aceptar y cambian los datos en la fila.
-
 
 ![Uploading image.png…]()
