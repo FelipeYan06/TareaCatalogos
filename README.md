@@ -296,7 +296,6 @@ Se establece como valor predeterminado al Recno en el txtEdit y como no se debe 
         limpiarCampos();
     }
 ```
-[![6.png](https://i.postimg.cc/446nbRhD/6.png)](https://postimg.cc/nMLHp522)
 
 ## Clase main para ejecutar el programa.
 
@@ -317,7 +316,7 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 
 ## Funcionamiento del programa
 
-1. Aparecen los datos predeterminados en la tabla.
+1. Aparecen los datos predeterminados en la tabla, esto por el contructor.
 
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/2a5e8b9c-5610-4ce1-b18f-6c35924124b2)
 
@@ -338,7 +337,7 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/cc1b10d4-7268-425e-876f-9928b5c76519)
 
 
-4. Se elimina el estado con el boton eliminar
+4. Se selecciona la fila del estado a eliminar y se presiona el botón eliminar.
 
 
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/a8fd6cde-e785-435c-85f5-26da83f6c2df)
@@ -346,7 +345,7 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/a70f6a46-c567-495a-9304-e2c069718986)
 
 
-5. Se presiona el botón actualizar y aparecen los datos de la fila seleccionada para ser cambiados.
+5. Se selecciona una fila para modificar, se presiona el botón actualizar y se reflejan sus datos de la fila para ser modificados.
 
 
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/698f0c40-a41d-4b94-bb96-df3e2c8f3e47)
@@ -354,6 +353,6 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/8f675983-0a9b-4322-9d3d-5d13d2e863b8)
 
-6. Se cambian los valores y se le da aceptar y cambian los datos en la fila.
+6. Una vez modificados los valores, se le da aceptar y cambian los datos en la fila que se seleccionó.
 
 ![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/ed93829c-5346-4610-abdb-12e25682801d)
