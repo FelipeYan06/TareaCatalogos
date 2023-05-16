@@ -332,27 +332,28 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 
 3. Se añade un nuevo estado con el boton insertar y se limpian los campos.
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/6cdf53d2-5d33-4726-8854-2e735f715b3b)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/0d62ffc6-96dd-437f-86fb-b43c50c5ac89)
 
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/b5dd2437-a1ba-45c7-b602-9fe7874654b1)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/cc1b10d4-7268-425e-876f-9928b5c76519)
+
 
 4. Se elimina el estado con el boton eliminar
 
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/ed1acb82-bcd6-4906-a28e-721263a0aa7a)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/a8fd6cde-e785-435c-85f5-26da83f6c2df)
 
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/a70f6a46-c567-495a-9304-e2c069718986)
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/c0bd63ed-9f20-4dc7-8daa-bd93f6b85ef8)
 
 5. Se presiona el botón actualizar y aparecen los datos de la fila seleccionada para ser cambiados.
 
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/715e0878-e7c5-439e-b8e7-73968e0e6ae7)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/698f0c40-a41d-4b94-bb96-df3e2c8f3e47)
 
 
-![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/d0618327-ee90-415e-8035-4394f02914e6)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/8f675983-0a9b-4322-9d3d-5d13d2e863b8)
 
 6. Se cambian los valores y se le da aceptar y cambian los datos en la fila.
 
-![Uploading image.png…]()
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/ed93829c-5346-4610-abdb-12e25682801d)
