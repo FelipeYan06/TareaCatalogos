@@ -1,6 +1,6 @@
 # # Aplicación catálogo que registre estados y municipios utilizando POO y JTable
 
-# Alumno: Felipe Yan Santos ISC 4B 
+# Alumno: Felipe Yan Santos Ingenieria en Sistemas 4B 
 
 ## En un paquete modelos, se crea la clase Estado.
 
@@ -146,7 +146,7 @@ EliminarEstados() con el método remove. Añadir y actualizar.
 En un JFrame, coloque un JPanel para poner color. Se inserta los textField para ingresar los datos de nuestro catálogo. 
 Se colocan 4 botones etiquerados como: aceptar, eliminar, limpiar y actualizar. Y el JTable donde se muestren los datos.
 
-imagen 
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/343c5ccb-ea90-4cb5-b29d-8d1de0cff696) 
 
 ## Configurar el JTable para mostrar los datos
 
@@ -319,8 +319,7 @@ En paquete controlador irá la clase main donde el programa se ejecuta.
 
 1. Aparecen los datos predeterminados en la tabla.
 
- n
-[![1.png](https://i.postimg.cc/L4LgCZG0/1.png)](https://postimg.cc/pyVdyyWD)
+![image](https://github.com/FelipeYan06/TareaCatalogos/assets/133423376/2a5e8b9c-5610-4ce1-b18f-6c35924124b2)
 
 
 2. Se limpian datos de los campos con el botón limpiar
