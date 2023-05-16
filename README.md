@@ -154,7 +154,7 @@ según el indice y luego se guarda en la filas del Jtable. Cada vez que sea llam
 
     }
 ```
-3- Botón "Aceptar" MouseClicked. Se guardan los datos escritos en los textField en un nuevo objeto Estado. 
+2- Botón "Aceptar" MouseClicked. Se guardan los datos escritos en los textField en un nuevo objeto Estado. 
 El if es para verificar si el estado existe a través de su variable RecNo. Dependiendo de esto, se añade un nuevo estado con el método añadirEstado(). 
 Si el registro existe, es porque el botón actualizar esta activado y se ha seleccionado una fila. Entonces se llama al método actualizar.
 
@@ -181,7 +181,7 @@ Si el registro existe, es porque el botón actualizar esta activado y se ha sele
     }
 ```
 
-4. Boton limpiar. Para llamar al método limpiar(). 
+3. Boton limpiar. Para llamar al método limpiar(). 
 
 ```
     private void btnLimpiarMouseClicked(java.awt.event.MouseEvent evt) {                                        
@@ -189,7 +189,7 @@ Si el registro existe, es porque el botón actualizar esta activado y se ha sele
     } 
 ```
 
-5- Botón "Eliminar". Primero se verifica que una fila esta seleccionada, y con el método eliminar se borra la fila. 
+4- Botón "Eliminar". Primero se verifica que una fila esta seleccionada, y con el método eliminar se borra la fila. 
 Si no esta seleccionada ninguna fila aparece una ventana de aviso.
 
 ```
@@ -208,7 +208,7 @@ Si no esta seleccionada ninguna fila aparece una ventana de aviso.
         
     }                                        2
 ```
-6- Botón actualizar. Se guarda la fila seleccionada, si el botón actualizar esta seleccionado se muestran en los txtEdit los datos de esa fila
+5- Botón actualizar. Se guarda la fila seleccionada, si el botón actualizar esta seleccionado se muestran en los txtEdit los datos de esa fila
 seleccionada, se edita lo que se quiera modificar y luego se le da al botón aceptar para guardar los cambios. Si no esta seleccionada un fila
 se imprime un mensaje.
 
